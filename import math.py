@@ -27,3 +27,5 @@ def main():
     teste = [8, 4, 6, 12]
     timeFinal = minimumTime(4, teste)
     print(timeFinal)
+
+print("hello")
